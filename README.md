@@ -10,7 +10,7 @@
 
 ## 🔗 Live Demo
 
-[Click here to view the live project](https://your-live-link-here.com)
+[Click here to view the live project](https://dhananjaymukhiya.github.io/my-gallery/))
 
 ## 🎥 Video Preview
 
